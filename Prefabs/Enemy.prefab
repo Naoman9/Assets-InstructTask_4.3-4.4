@@ -489,7 +489,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemy: {fileID: 7420534855786808091}
-  player: {fileID: 7349170446184888280, guid: 24e0690d1256744f6b42c0b076225252, type: 3}
+  player: {fileID: 5546827034545888221, guid: cfc48be18395540109277072c7742908, type: 3}
+  bombPrefab: {fileID: 2626547205411126629, guid: c1b1f81d0a1634e10b3c8ea2c651c523, type: 3}
 --- !u!195 &7420534855786808091
 NavMeshAgent:
   m_ObjectHideFlags: 0
